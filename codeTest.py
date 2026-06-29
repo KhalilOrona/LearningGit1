@@ -1,5 +1,5 @@
 import cv2 as cv
 
-print("this code works")
+msj = "msj test"
 
-print("segundo intento")
+print(msj)
